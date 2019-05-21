@@ -19,4 +19,4 @@ class Bomb extends React.Component {
   }
 }
 
-export default Boom;
+export default Bomb;
