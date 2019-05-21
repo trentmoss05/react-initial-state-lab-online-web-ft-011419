@@ -6,7 +6,7 @@ class ImageSlider extends React.Component {
     super()
     
     this.state = {
-      currentSlideIndex = 0
+      currentSlideIndex: 0
     }
   }
 }
