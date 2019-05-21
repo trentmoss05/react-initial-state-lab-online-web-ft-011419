@@ -10,6 +10,8 @@ class ImageSlider extends React.Component {
     }
   }
   
-  render()
-    
+  render() {
+    return(
+      )
+  }
 }
